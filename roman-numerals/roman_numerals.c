@@ -6,7 +6,6 @@
 typedef struct{
     u_int16_t base;
     const char* numeral;
-    //const int size;
 } Roman_Numeral_Values_t;
 
 static const Roman_Numeral_Values_t romanNumeralTable[]=
